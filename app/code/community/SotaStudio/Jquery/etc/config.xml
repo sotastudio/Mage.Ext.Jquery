@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+
+	<modules>
+		<SotaStudio_Jquery>
+			<version>1.0.0</version>
+		</SotaStudio_Jquery>
+	</modules>
+
+	<frontend>
+		<layout>
+			<updates>
+				<sota_jquery>
+					<file>sota/jquery.xml</file>
+				</sota_jquery>
+			</updates>
+		</layout>
+	</frontend>
+
+</config>
